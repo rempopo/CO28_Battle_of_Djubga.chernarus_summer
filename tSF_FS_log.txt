@@ -1,0 +1,13 @@
+"####### tSF File Sweeper Engaged #######" 
+Mission directory:     N:\TacShift\CO28_Battle_of_Djubga.chernarus_summer\ 
+Mission fodler name:   CO28_Battle_of_Djubga 
+Removing tSF Helpers 
+Removing DynAI Helpers 
+Removing unused tSF Modules 
+    Folder is not used: Removing AirborneSupport 
+    Folder is not used: Removing ArtillerySupport 
+    Folder is not used: Removing Conversations 
+    Folder is not used: Removing EditorUnitBehavior 
+    Folder is not used: Removing Interactives 
+    Folder is not used: Removing POM 
+Done! 
